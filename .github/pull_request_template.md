@@ -17,6 +17,7 @@ Closes #
 - [ ] I have renamed the file before making this pull request.
 - [ ] I have formatted the code accordingly.
 - [ ] My code is different than the existing code in this repository (if any).
+- [ ] I removed all comments and commented lines from the main code. (class Solution{...})
 
 ## Screenshots
 
