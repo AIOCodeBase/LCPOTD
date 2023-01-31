@@ -1,6 +1,6 @@
-<h1 align="center"> <b>LCPS (LeetCode Problems Solutions)</b> </h1>
+<h1 align="center"> <b>LCPOTD (LeetCode Problems of the Day)</b> </h1>
 
-<h2 align="center"> <b>LeetCode | Problems | Solutions</b> </h2>
+<h2 align="center"> <b>LeetCode | Problem of the Day | Solutions</b> </h2>
 
 <br />
 
@@ -30,8 +30,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 [![Star this Repository](https://img.shields.io/github/stars/AIOCodeBase/LCPS?label=Star%20this%20Repository&style=for-the-badge)](https://www.github.com/AIOCodeBase/LCPS)
 [![License: MIT](https://img.shields.io/github/followers/AIOCodeBase?logo=github&label=follow%20%40AIOCodeBase&style=for-the-badge)](https://www.github.com/AIOCodeBase)
-
-README.md & CONTRIBUTION.md file will be updated soon...
 
 ### Show some ❤️ by starring ⭐ this awesome Repository!
 
