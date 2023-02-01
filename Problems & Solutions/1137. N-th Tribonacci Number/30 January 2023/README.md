@@ -30,4 +30,4 @@ Output: 1389537
 - `0 <= n <= 37`
 - The answer is guaranteed to fit within a 32-bit integer, ie. `answer <= 2^31 - 1`.
 
-> ### **Problem URL: [1137. N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number//)**
+> ### **Problem URL: [1137. N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)**
