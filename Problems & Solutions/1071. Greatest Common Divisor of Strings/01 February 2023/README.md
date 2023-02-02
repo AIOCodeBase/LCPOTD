@@ -31,3 +31,6 @@ Output: ""
 
 - `1 <= str1.length, str2.length <= 1000`
 - `str1` and `str2` consist of English uppercase letters.
+
+
+> ### **Problem URL: [1071. Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/)**
