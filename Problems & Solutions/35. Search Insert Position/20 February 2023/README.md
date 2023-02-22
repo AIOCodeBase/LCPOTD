@@ -34,4 +34,4 @@ Output: 4
 - `nums` contains **distinct** values sorted in **ascending** order.
 - `-10^4 <= target <= 10^4`
 
-> ### **Problem URL: [103. Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)**
+> ### **Problem URL: [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/)**
